@@ -4,6 +4,8 @@ I built this to learn about embedded devices. It logs sensor data with sub-milli
 
 I'm planning on continuously improving this project to learn more!
 
+Learned a lot from: https://github.com/toolbuilder/dynamic-ring-buffer
+
 ## Features ⚡
 - **Dynamic Ring Buffer:** Handles high-frequency sensor data smoothly.
 - **Multithreading:** Asynchronous writer thread for continuous logging.
