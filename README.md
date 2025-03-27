@@ -14,7 +14,7 @@ I'm planning on continuously improving this project to learn more!
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/RedaB2/systemloggerv1.git
-   cd system-logger
+   cd systemloggerv1
    ```
 
 2. **Compile the code:**
